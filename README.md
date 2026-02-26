@@ -10,7 +10,7 @@ from Apple's 2024 and Tesla's 2023 annual SEC filings.
 - Llama 3.3 70B via Groq as the open-source LLM
 
 ## Files
-- `notebook.ipynb` — main runnable notebook
+- `ABB_assignment_submission_v2.ipynb` — main runnable notebook
 - `design_report.md` — design decisions explained
 - `requirements.txt` — all dependencies
 
