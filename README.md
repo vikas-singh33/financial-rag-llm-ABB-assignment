@@ -20,7 +20,7 @@ from Apple's 2024 and Tesla's 2023 annual SEC filings.
 3. Run all cells top to bottom
 
 ## Live Notebook
-https://colab.research.google.com/drive/1efe_qDCmE49349H4GvnR5oAfwtV9mFNj?usp=sharing
+****<<The Colab notebook link shared over email is fully configured and can be run end to end without any changes. Please use the Colab link for evaluation. The notebook uploaded to GitHub has the API keys removed for security reasons, so the Colab version is the recommended way to run and review the complete solution.>>****
 
 ## Tech Stack
 - LLM: Llama 3.3 70B (Groq)
