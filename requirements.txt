@@ -1,0 +1,12 @@
+pymupdf
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+langchain-cohere
+langchain-chroma
+langchain-text-splitters
+langchain-classic
+rank_bm25
+chromadb
+python-dotenv
