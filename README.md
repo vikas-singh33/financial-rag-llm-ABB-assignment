@@ -19,6 +19,9 @@ from Apple's 2024 and Tesla's 2023 annual SEC filings.
 2. Add your API keys (OpenAI, Groq, Cohere)
 3. Run all cells top to bottom
 
+## Live Notebook
+https://colab.research.google.com/drive/1efe_qDCmE49349H4GvnR5oAfwtV9mFNj?usp=sharing
+
 ## Tech Stack
 - LLM: Llama 3.3 70B (Groq)
 - Embeddings: OpenAI text-embedding-3-small
